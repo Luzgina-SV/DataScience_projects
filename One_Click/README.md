@@ -1,4 +1,4 @@
-# Разработка решений для персонализации предложений постоянным клиентам он-лайн магазина One-Click
+# Разработка решений для персонализации предложений постоянным клиентам он-лайн магазина One-Click #
 
 **Цель исследования**
 - разработка рекомендаций для интернет-магазина "В один клик", которые позволят персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность
@@ -18,7 +18,7 @@
 - pandas
 - numpy
 - sklearn
-  +  модули машинного обучения: DecisionTreeClassifier, KNeighborsClassifier, SVC, LogisticRegression, DummyClassifier
+  +  модули построения модели машинного обучения: DecisionTreeClassifier, KNeighborsClassifier, SVC, LogisticRegression, DummyClassifier
   +  модули для создания пайплайна: Pipeline, ColumnTransformer
   +  модули для работы с пропусками и масштабирования и кодирования признаков: SimpleImputer, LabelEncoder, OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler, RobustScaler
   +  модули автоподбора параметров: GridSearchCV, RandomizedSearchCV
